@@ -15,3 +15,8 @@ width: 100%;
     width: 30%;
     color: green;
 }
+@media only screen and(min-width:1100px){
+    .font-div{
+        padding: 42.5px 0px important ;
+    }
+}
