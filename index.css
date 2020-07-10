@@ -10,11 +10,7 @@ height: 100%;
 width: 100%;
 /* background-color: black; */
 }
-@media only screen and(min-width:1198px){
-    .font-div{
-        padding: 42.5px 0px important ;
-    }
-}
+
 .bb{
     width: 30%;
     color: green;
